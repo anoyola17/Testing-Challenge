@@ -1,27 +1,9 @@
-# LRNR
-## :blue_book: Overview
-**LRNR** (pronounced *“learner”*) is a modern full-stack learning platform designed to make studying and teaching interactive, trackable, and adaptive. It combines a clean front-end interface with a robust Node.js/Express API to manage users, content, and progress.
----
-## :sparkles: Features
-- :closed_lock_with_key: Secure authentication and user roles (Student / Instructor / Admin)
-- :books: Course and resource management
-- :chart_with_upwards_trend: Progress tracking and analytics dashboards
-- :speech_balloon: Real-time updates or notifications (WebSocket / polling)
-- :art: Fully responsive front-end UI
-- :jigsaw: RESTful API design
----
-## :toolbox: Tech Stack
-| Layer        | Technology |
-|--------------|-------------|
-| **Front-end** | React + Vite |
-| **Back-end** | Node.js + Express |
-| **Database** | MySQL|
-| **Deployment** | Railway |
+#Testing LRNR Challenge
 
-- Host link: https://lrnr-app.up.railway.app/
----
-## :rocket: Getting Started
-### :one: Clone the Repository
-```bash
-git clone https://github.com/eddiesanch8/LRNR.git
-cd LRNR
+- Clone my team’s LRNR project.
+- Install Cypress for testing.
+- Front-End Testing Requirements:
+  Write two passing end-to-end (E2E) tests for your site’s homepage using Cypress.
+  Write two passing unit tests using Cypress.
+  Perform additional front-end testing by covering the homepage and other selected pages of your site.
+
